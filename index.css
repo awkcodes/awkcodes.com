@@ -1,0 +1,84 @@
+body {
+    font-family: "Ubuntu Mono", "Consolas", "Courier New", monospace;
+    background-color: #000;
+    color: rgb(0, 68, 255);
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    max-width: 800px;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+    background-color: #121212;
+    border-radius: 0;
+    box-shadow: none;
+    overflow-y: auto;
+    border-left: 1px solid #333;
+    border-right: 1px solid #333;
+}
+
+h1 {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+    text-align: left;
+    color:rgb(0, 68, 255);
+}
+
+h1::before {
+    content: "~/$ ";
+    color: rgb(0, 68, 255);
+}
+
+h2 {
+    font-size: 1.4em;
+    margin-top: 20px;
+    color:rgb(0, 68, 255);
+}
+
+h2::before {
+    content: "$ ";
+    color: rgb(0, 68, 255);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+li::before {
+    content: "> ";
+    color: rgb(0, 68, 255);
+}
+
+a {
+    text-decoration: none;
+    color:  rgb(0, 68, 255);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #fff;
+}
+
+/* Terminal cursor effect */
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+}
+
+h1::after {
+    content: "_";
+    animation: blink 1s infinite;
+    margin-left: 5px;
+}
