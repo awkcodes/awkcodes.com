@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="108.72853mm"
+   height="25.666628mm"
+   viewBox="0 0 108.72853 25.666628"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="94.871521"
+       y="361.97241"
+       width="171.81924"
+       height="169.3011"
+       id="rect113" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-50.306706,-111.6698)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28525575,0,0,0.29435414,23.065896,7.4423746)"
+       id="text111"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:Tuffy;-inkscape-font-specification:Tuffy;white-space:pre;shape-inside:url(#rect113);fill:#000000"
+       x="68.734375"
+       y="0"><tspan
+         x="94.871094"
+         y="413.79682"
+         id="tspan166"><tspan
+           style="font-weight:bold;font-size:64px;line-height:1.1;-inkscape-font-specification:'Tuffy Bold';fill:#008080"
+           id="tspan162">AWK</tspan><tspan
+           style="line-height:1.1"
+           id="tspan164">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.5107px;font-family:Tuffy;-inkscape-font-specification:'Tuffy Bold';fill:#000000;stroke-width:0.290825"
+       x="97.299919"
+       y="139.97011"
+       id="text195"
+       transform="scale(1.0991819,0.90976752)"><tspan
+         id="tspan193"
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5107px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Oblique';fill:#008000;stroke-width:0.290825"
+         x="97.299919"
+         y="139.97011">codes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.1;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Oblique';text-align:start;text-anchor:start;white-space:pre;inline-size:31.9662;fill:#0000ff;stroke-width:0.264583"
+       x="43.551807"
+       y="157.45758"
+       id="text623"
+       transform="matrix(1,0,0,1.8503523,46.052656,-160.38653)"><tspan
+         x="43.551807"
+         y="157.45758"
+         id="tspan170"><tspan
+           style="font-style:normal;font-weight:600;-inkscape-font-specification:'URW Gothic Semi-Bold'"
+           id="tspan168">&gt;|</tspan></tspan></text>
+  </g>
+</svg>
